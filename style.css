@@ -1,5 +1,14 @@
+*{
+    background-color: #7485b5;
+}
 .lg1{
     list-style: none;
     margin-top: 5px;
     margin-bottom: 5px;
+}
+.header{
+    background-color: #5985ff;
+}
+.footer{
+    background-color: #1b202b;
 }
