@@ -48,3 +48,9 @@ body {
 .algcen{
     align-items: center;
 }
+.btn {
+    color: black;
+    background-color: white;
+    outline: black 1px solid;
+    padding: 10px;
+}
