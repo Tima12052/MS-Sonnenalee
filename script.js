@@ -1,4 +1,3 @@
-//test
 document.addEventListener("DOMContentLoaded", () => {
     const openModalButtons = document.querySelectorAll(".open-modal");
     const closeModalButtons = document.querySelectorAll(".close-modal");

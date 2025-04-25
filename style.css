@@ -58,13 +58,3 @@
         height: 100px;
     }
 }
-.voioi:hover{
-    border: 1px solid #00aeff;
-}
-.u1l1 button {
-    display: none; /* Hide the button by default */
-}
-
-.u1l-1:hover button {
-    display: inline-block; /* Show the button when hovering over the <li> */
-}
