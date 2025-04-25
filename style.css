@@ -35,5 +35,6 @@ body {
     background-color: white;
     outline: black 1px solid;
     padding: 10px;
-    border-radius: 10%;
+    border-radius: 15%;
+    margin-bottom: 5px;
 }
