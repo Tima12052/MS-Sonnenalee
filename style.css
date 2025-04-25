@@ -46,7 +46,7 @@ body {
     }
 }
 .algcen{
-    align-items: center;
+    align-content: center;
 }
 .btn {
     color: black;
